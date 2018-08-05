@@ -1,5 +1,5 @@
 # Tebukuro
-[![wercker status](https://app.wercker.com/status/35e08da3b0a742e5c50ffac2670a821b/s/master "wercker status")](https://app.wercker.com/project/byKey/35e08da3b0a742e5c50ffac2670a821b)
+[![wercker status](https://app.wercker.com/status/35e08da3b0a742e5c50ffac2670a821b/s/master "wercker status")](https://app.wercker.com/project/byKey/35e08da3b0a742e5c50ffac2670a821b) [![GuardRails badge](https://badges.production.guardrails.io/shtakai/tebukuro.svg)](https://www.guardrails.io)
 
 モバイルフレンドリーなオープンソースイベント運営管理サービス
 
